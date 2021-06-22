@@ -9,7 +9,7 @@ Just write:
 {..place where gbdk-2020 is unpacked}gbdk/bin/lcc -Wa-l -Wl-m -Wl-j -DUSE_SFR_FOR_REG -c -o main.o main.c
 
 
-{..place where gbdk-2020 is unpacked}gbdk/bin/lcc -Wa-l -Wl-m -Wl-j -DUSE_SFR_FOR_REG -o tw_0_5.gb main.o 
+{..place where gbdk-2020 is unpacked}gbdk/bin/lcc -Wa-l -Wl-m -Wl-j -DUSE_SFR_FOR_REG -o tw_0_6.gb main.o 
 
 For *.gbr and *.gbm files use Gameboy Tile Designer and Gameboy Map Builder by Harry Mulder:
 
